@@ -1,0 +1,30 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x8007000e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igxprd32.dll 8.14.10.4764]
+    Renderer: Intel(R) 82915G/GV/910GL Express Chipset Family
+    Vendor:   Intel
+    VRAM:     64 MB (via fallback)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=0 BC4=0 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+Platform assembly: G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Global Game Jam 2017\build_01\waiver_goodbye_01_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 2.482400 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 9 -> priority: 1 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b81b1a7dea8ad874fa2d09f68135001c
+timeCreated: 1485108763
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kalam
+  fontNames:
+  - Kalam
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1ecc8468456c5a4449eeddf2b0eea9e7, type: 3}
+  - {fileID: 12800000, guid: 7aaf718d5a8ce5f4695e79829cab1f03, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

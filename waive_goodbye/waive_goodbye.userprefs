@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\scr_waiver.cs">
+    <Files>
+      <File FileName="Assets\Scripts\scr_trash.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scr_game_master.cs" Line="144" Column="46" />
+      <File FileName="Assets\Scripts\scr_endscores.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scr_waiver.cs" Line="278" Column="2" />
+      <File FileName="Assets\Scripts\scr_textbox_manager.cs" Line="1" Column="1" />
+      <File FileName="..\..\Intermediate Development\lovetester\Assets\Scripts\scr_textboxmanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Text\Text_v2\tx_Time Bonus.txt" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scr_game_start.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
